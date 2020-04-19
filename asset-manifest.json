@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chicori3.github.io/movie_app/static/css/main.181dedaf.chunk.css",
+    "main.js": "/chicori3.github.io/movie_app/static/js/main.86615327.chunk.js",
+    "main.js.map": "/chicori3.github.io/movie_app/static/js/main.86615327.chunk.js.map",
+    "runtime-main.js": "/chicori3.github.io/movie_app/static/js/runtime-main.1c8870c7.js",
+    "runtime-main.js.map": "/chicori3.github.io/movie_app/static/js/runtime-main.1c8870c7.js.map",
+    "static/js/2.cfee456d.chunk.js": "/chicori3.github.io/movie_app/static/js/2.cfee456d.chunk.js",
+    "static/js/2.cfee456d.chunk.js.map": "/chicori3.github.io/movie_app/static/js/2.cfee456d.chunk.js.map",
+    "index.html": "/chicori3.github.io/movie_app/index.html",
+    "precache-manifest.6301a2fe9e6d88a0fe77dd0f51517de8.js": "/chicori3.github.io/movie_app/precache-manifest.6301a2fe9e6d88a0fe77dd0f51517de8.js",
+    "service-worker.js": "/chicori3.github.io/movie_app/service-worker.js",
+    "static/css/main.181dedaf.chunk.css.map": "/chicori3.github.io/movie_app/static/css/main.181dedaf.chunk.css.map",
+    "static/js/2.cfee456d.chunk.js.LICENSE.txt": "/chicori3.github.io/movie_app/static/js/2.cfee456d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8870c7.js",
+    "static/js/2.cfee456d.chunk.js",
+    "static/css/main.181dedaf.chunk.css",
+    "static/js/main.86615327.chunk.js"
+  ]
+}
