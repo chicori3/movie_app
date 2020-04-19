@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chicori3.github.io/movie_app/precache-manifest.6301a2fe9e6d88a0fe77dd0f51517de8.js"
+  "/chicori3.github.io/movie_app/precache-manifest.f01818dc0cb02aede3355810c96eadfd.js"
 );
 
 self.addEventListener('message', (event) => {
