@@ -3,7 +3,8 @@
     0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
   padding: 20px;
   border-radius: 5px;
-  background-color: white;
+  background-color: #020202;
+  color: white;
   margin: 0 auto;
   margin-top: 100px;
   max-width: 25%;
