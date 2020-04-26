@@ -1,5 +1,5 @@
 # React Movie App
-  - React Fundamental Learning Course with Nomadcoder
+  - Learn React Fundamental
   - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
   
 ## Link
